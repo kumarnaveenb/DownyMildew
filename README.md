@@ -142,3 +142,4 @@ IMAGE_SIZE = (12, 8)
 
 22. goto Cell
 	 -->Run All
+Take a look at test results <reuslt>
