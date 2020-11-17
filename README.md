@@ -1,2 +1,2 @@
 # HelmetDetection
-Tensorflow+Helmet Detection+Construction jobsite
+TensorFlow object detection + Downy Mildew Disease detection
